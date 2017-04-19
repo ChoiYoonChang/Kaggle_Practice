@@ -88,7 +88,7 @@
 --------------------------------------------------------------
 
 
-### 5. Two sigma Financial Modeling
+### 5. Two Sigma Financial Modeling
 > #### 주제
   익명화된 데이터를 가지고 target value를 가장 잘 나타내는 예측 모델 만들기
   
