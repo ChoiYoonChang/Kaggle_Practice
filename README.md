@@ -7,10 +7,10 @@
 ### Titanic_Machine Learning from Disaster
 
 > #### 주제
-  타이타닉호 탑승자들의 생존여부 예측
+    타이타닉호 탑승자들의 생존여부 예측
 
 > #### 예측 모델 유형
-  Classification Model
+    Classification Model
 
 > 데이터 설명 
 1. Target value : 'Survived(생존여부)', 0: 사망 / 1: 생존
