@@ -83,7 +83,7 @@
 1. https://www.kaggle.com/sudalairajkumar/two-sigma-financial-modeling/simple-exploration-notebook-5
 1. https://www.kaggle.com/chenjx1005/two-sigma-financial-modeling/physical-meanings-of-technical-20-30
 1. https://www.kaggle.com/ysidhu/two-sigma-financial-modeling/two-sigma-portfolio-returns-eda
---------------------------------------------------------------
+-------------------------------------------------------------
 
 
 
