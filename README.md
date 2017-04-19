@@ -1,5 +1,5 @@
 # Kaggle_Practice
-- 이 Repository는 kaggle kernel 연구를 위한 repository입니다.
+- 이 Repository는 kaggle kernel 연구를 위한 것입니다.
 - 순서는 프로젝트가 진행된 순서로 기재되어 있습니다. 
 - 세부 내용은 각 프로젝트 노트북에서 확인 할 수 있습니다. 
 
