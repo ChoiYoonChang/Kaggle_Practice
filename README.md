@@ -26,7 +26,7 @@
 --------------------------------------------------------------
 
 ### 2. House Prices
-> #### 분석 주제
+> #### 주제
   집과 관련된 여러 정보를 활용하여 집의 'Sale Prices' 예측
   
 > #### 예측 모델 유형
@@ -40,24 +40,29 @@
 1. Feature Engineering : Skewd Data를 log를 취해줌으로서 정규화 해준다.
 1. Regularization : L1, L2를 적용하여 RMSE를 계산한다 / L2(Lasso)를 이용해서 Feature Selection을 실시한다.
 1. Keras에 모델을 적용한다. 
-- 참고 링크
+
+> #### 참고 링크
 1. https://www.kaggle.com/apapiu/house-prices-advanced-regression-techniques/regularized-linear-models
 1. https://www.kaggle.com/pmarcelino/house-prices-advanced-regression-techniques/comprehensive-data-exploration-with-python
 --------------------------------------------------------------
 
 
 ### 3. QUORA Question Pairs Analysis
-- 분석 주제 : 질문 사이트 QUORA에 올라온 질문들의 중복 여부를 판단해보자.
-- 예측 모델 유형 : Classification
-- Data 설명 
+> #### 주제
+  질문 사이트 QUORA에 올라온 질문들의 중복 여부를 판단해보자.
+> #### 예측 모델
+  Classification Model
+  
+> #### 데이터 설명 
 1. Target value : 'Is_duplicate' 질문의 중복 여부를 나타냄(0: 중복 X / 1: 중복 O)
 1. Features : Raw text의 형태의 QUORA 질문들, 각 질문마다 부여된 id값
 		   
-- 주요 내용 
+> #### 주요 내용 
 1. NLP(자연어 처리) 분석 : Character, Word 기준에 따른 텍스트 분석, TF-IDF
 1. Training set과 Test set의 target value rate 불균형을 해소하기 위한 Data Rebalancing
 1. XGBoost 모델 적용
-- 참고 링크
+
+> #### 참고 링크
 1. https://www.kaggle.com/anokas/quora-question-pairs/data-analysis-xgboost-starter-0-35460-lb
 1. https://www.kaggle.com/philschmidt/quora-question-pairs/quora-eda-model-selection-roc-pr-plots
 --------------------------------------------------------------
