@@ -3,8 +3,8 @@
 - 순서는 프로젝트가 진행된 순서로 기재되어 있습니다. 
 - 세부 내용은 각 프로젝트 노트북에서 확인 할 수 있습니다. 
 
-## 각 프로젝트 내용 설명
-### Titanic_Machine Learning from Disaster
+## INDEX
+### 1. Titanic_Machine Learning from Disaster
 
 > #### 주제
    타이타닉호 탑승자들의 생존여부 예측
@@ -12,27 +12,31 @@
 > #### 예측 모델 유형
    Classification Model
 
-> 데이터 설명 
+> #### 데이터 설명 
 1. Target value : 'Survived(생존여부)', 0: 사망 / 1: 생존
 1. Features : 타이타닉 탑승자들의 고객 정보(성별, 나이, 지불 운임 금액 등)
 		   
-> 내용 
+> #### 주요 내용 
 1. Feature Engineering : 각 column별 분석(데이터 합치기, 나누기 등) 
 1. 예측 모델 적용(Logistic Regression, SVM, Random Forests, KNN)
 
-> 참고 링크
+> #### 참고 링크
 1. https://www.kaggle.com/omarelgabry/titanic/a-journey-through-titanic
 1. https://www.kaggle.com/mrisdal/titanic/exploring-survival-on-the-titanic
 --------------------------------------------------------------
 
-### House Prices
-- 분석 주제 : 집과 관련된 여러 정보를 활용하여 집의 'Sale Prices' 예측
-- 예측 모델 유형 : Regression
-- Data 설명 
+### 2. House Prices
+> #### 분석 주제
+  집과 관련된 여러 정보를 활용하여 집의 'Sale Prices' 예측
+  
+> #### 예측 모델 유형
+  Regression Model
+  
+> ####  설명 
 1. Target value : 'SalePrices' 를 예측. 이 값은 continuous numeric variable 형태를 가지고 있다.
 1. Features : 집과 관련되어있는 여러 Features(위치, 지역, 집크기, 인접 도로와의 거리, 난방 유형 등) 80개
 		   
-- 주요 내용 
+> #### 주요 내용 
 1. Feature Engineering : Skewd Data를 log를 취해줌으로서 정규화 해준다.
 1. Regularization : L1, L2를 적용하여 RMSE를 계산한다 / L2(Lasso)를 이용해서 Feature Selection을 실시한다.
 1. Keras에 모델을 적용한다. 
@@ -42,7 +46,7 @@
 --------------------------------------------------------------
 
 
-### QUORA Question Pairs Analysis
+### 3. QUORA Question Pairs Analysis
 - 분석 주제 : 질문 사이트 QUORA에 올라온 질문들의 중복 여부를 판단해보자.
 - 예측 모델 유형 : Classification
 - Data 설명 
@@ -59,7 +63,7 @@
 --------------------------------------------------------------
 
 
-### Digit Recognizer Analysis
+### 4. Digit Recognizer Analysis
 - 분석 주제 : 0~9까지의 숫자가 적힌 손글씨가 나타내는 실제 숫자 예측
 - 예측 모델 유형 : Classification
 - Data 설명 
@@ -75,7 +79,7 @@
 --------------------------------------------------------------
 
 
-### Two sigma Financial Modeling
+### 5. Two sigma Financial Modeling
 - 분석 주제 : 익명화된 데이터를 가지고 target value를 가장 잘 나타내는 예측 모델 만들기
 - 예측 모델 유형 : Regression
 - Data 설명 
