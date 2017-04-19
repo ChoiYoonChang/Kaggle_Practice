@@ -1,4 +1,4 @@
-### 4. Digit Recognizer Analysis
+## Digit Recognizer Analysis
 > #### 주제
   0~9까지의 숫자가 적힌 손글씨가 나타내는 실제 숫자 예측
 > #### 모델 유형
