@@ -14,7 +14,9 @@
 - 주요 내용 
 1. Feature Engineering : 각 column별 분석(데이터 합치기, 나누기 등) 
 1. 예측 모델 적용(Logistic Regression, SVM, Random Forests, KNN)
-
+- 참고 링크
+1. https://www.kaggle.com/omarelgabry/titanic/a-journey-through-titanic
+1. https://www.kaggle.com/mrisdal/titanic/exploring-survival-on-the-titanic
 --------------------------------------------------------------
 
 ### House Prices
@@ -28,6 +30,9 @@
 1. Feature Engineering : Skewd Data를 log를 취해줌으로서 정규화 해준다.
 1. Regularization : L1, L2를 적용하여 RMSE를 계산한다 / L2(Lasso)를 이용해서 Feature Selection을 실시한다.
 1. Keras에 모델을 적용한다. 
+- 참고 링크
+1. https://www.kaggle.com/apapiu/house-prices-advanced-regression-techniques/regularized-linear-models
+1. https://www.kaggle.com/pmarcelino/house-prices-advanced-regression-techniques/comprehensive-data-exploration-with-python
 --------------------------------------------------------------
 
 
@@ -42,6 +47,9 @@
 1. NLP(자연어 처리) 분석 : Character, Word 기준에 따른 텍스트 분석, TF-IDF
 1. Training set과 Test set의 target value rate 불균형을 해소하기 위한 Data Rebalancing
 1. XGBoost 모델 적용
+- 참고 링크
+1. https://www.kaggle.com/anokas/quora-question-pairs/data-analysis-xgboost-starter-0-35460-lb
+1. https://www.kaggle.com/philschmidt/quora-question-pairs/quora-eda-model-selection-roc-pr-plots
 --------------------------------------------------------------
 
 
@@ -56,6 +64,8 @@
 1. Image Data Preprocessing(one-hot-encoder, EDA(Exploratory data analysis))
 1. CNN(Convolutional Neural Network)에 적용하기 위한 Weights, Bias 설정
 1. CNN모델 layer설정(Hidden layers, helper function 등)
+- 참고 링크
+1. https://www.kaggle.com/kakauandme/digit-recognizer/tensorflow-deep-nn
 --------------------------------------------------------------
 
 
@@ -69,6 +79,10 @@
 - 주요 내용 
 1. Feature Engineering(상관계수 계산, EDA(Exploratory data analysis))
 1. 높은 상관계수 값을 가지는 Feature들의 scatter, 누적 분포 살펴보기
+- 참고 링크
+1. https://www.kaggle.com/sudalairajkumar/two-sigma-financial-modeling/simple-exploration-notebook-5
+1. https://www.kaggle.com/chenjx1005/two-sigma-financial-modeling/physical-meanings-of-technical-20-30
+1. https://www.kaggle.com/ysidhu/two-sigma-financial-modeling/two-sigma-portfolio-returns-eda
 --------------------------------------------------------------
 
 
