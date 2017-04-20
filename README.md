@@ -4,7 +4,8 @@
 - 세부 내용은 각 프로젝트 노트북에서 확인 할 수 있습니다. 
 
 ## INDEX
-### 1. Titanic_Machine Learning from Disaster
+syntax: [Title](link)
+### 1. [Titanic_Machine Learning from Disaster](https://github.com/Kylekoh/Kaggle_Practice/tree/master/Titanic)
 
 > #### 주제
    타이타닉호 탑승자들의 생존여부 예측
