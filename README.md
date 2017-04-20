@@ -4,8 +4,7 @@
 - 세부 내용은 각 프로젝트 노트북에서 확인 할 수 있습니다. 
 
 ## INDEX
-syntax: [Title](link)
-### 1. [Titanic_Machine Learning from Disaster](https://github.com/Kylekoh/Kaggle_Practice/tree/master/Titanic)
+### 1. [Titanic_Machine Learning from Disaster](https://github.com/Kylekoh/Kaggle_Practice/blob/master/Titanic/Titanic%20Analysis.ipynb)
 
 > #### 주제
    타이타닉호 탑승자들의 생존여부 예측
@@ -26,7 +25,7 @@ syntax: [Title](link)
 1. https://www.kaggle.com/mrisdal/titanic/exploring-survival-on-the-titanic
 --------------------------------------------------------------
 
-### 2. House Prices
+### 2. [House Prices](https://github.com/Kylekoh/Kaggle_Practice/blob/master/House%20Prices/House%20Prices%20Analysis.ipynb)
 > #### 주제
   집과 관련된 여러 정보를 활용하여 집의 'Sale Prices' 예측
   
@@ -48,7 +47,7 @@ syntax: [Title](link)
 --------------------------------------------------------------
 
 
-### 3. QUORA Question Pairs Analysis
+### 3. [QUORA Question Pairs Analysis](https://github.com/Kylekoh/Kaggle_Practice/blob/master/Quora%20Question%20Pairs/Quora%20Question%20Pairs%20Analysis.ipynb)
 > #### 주제
   질문 사이트 QUORA에 올라온 질문들의 중복 여부를 판단해보자.
 > #### 예측 모델
@@ -69,7 +68,7 @@ syntax: [Title](link)
 --------------------------------------------------------------
 
 
-### 4. Digit Recognizer Analysis
+### 4. [Digit Recognizer Analysis](https://github.com/Kylekoh/Kaggle_Practice/blob/master/Digit%20Recognizer/Digit%20Recognizer%20Anaysis.ipynb)
 > #### 주제
   0~9까지의 숫자가 적힌 손글씨가 나타내는 실제 숫자 예측
 > #### 모델 유형
@@ -89,7 +88,7 @@ syntax: [Title](link)
 --------------------------------------------------------------
 
 
-### 5. Two Sigma Financial Modeling
+### 5. [Two Sigma Financial Modeling](https://github.com/Kylekoh/Kaggle_Practice/blob/master/Two%20Sigma%20Financial%20Modeling/Two%20Sigma%20Financial%20Modeling%20anaysis.ipynb)
 > #### 주제
   익명화된 데이터를 가지고 target value를 가장 잘 나타내는 예측 모델 만들기
   
